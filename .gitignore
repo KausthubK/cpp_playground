@@ -1,2 +1,5 @@
 build/
 .vs/
+.idea/
+out/
+linux_build/
