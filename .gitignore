@@ -1,5 +1,6 @@
 build/
 .vs/
+.vscode/
 .idea/
 out/
 linux_build/
