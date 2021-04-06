@@ -4,4 +4,4 @@ First C++ tutorials from [Geeks for Geeks](https://www.geeksforgeeks.org/c-plus-
 
 ## Next time
 
-[C++ Preprocessors](https://www.geeksforgeeks.org/cc-preprocessors/)
+[C++ Operators](https://www.geeksforgeeks.org/operators-c-c/)
