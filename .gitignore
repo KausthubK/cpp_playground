@@ -4,3 +4,4 @@ build/
 .idea/
 out/
 linux_build/
+app.exe

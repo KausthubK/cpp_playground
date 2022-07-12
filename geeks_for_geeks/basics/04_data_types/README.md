@@ -2,6 +2,16 @@
 
 From [Geeks for Geeks - C Data Types Tutorial](https://www.geeksforgeeks.org/c-data-types/)
 
+
+## Build & Run
+
+### Build
+
+    mkdir build && cd build
+    g++ -o data_types --std=c++2a -Wall ../data_types.cpp
+### Run
+    ./data_types
+    
 ## Types
 
 1. Primitive Data Types:
