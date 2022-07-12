@@ -1,4 +1,4 @@
-// GCC compilers don't recognize pragams
+// GCC compilers don't recognize pragmas
 
 #include <bits/stdc++.h>
 

@@ -20,7 +20,7 @@ int main()
     {
         std::cout << "Equals 3!" << std::endl;
     }
-    else if (GLOBAL_VARIABLE == c)
+    else if (GLOBAL_VARIABLE == d)
     {
         std::cout << "Equals 4!" << std::endl;
     }
