@@ -2,13 +2,27 @@
 
 Small project that builds on any operating system.
 
-## Build instructions
+## CMake
+
+### Build instructions
 
     mkdir build && cd build
     cmake ..
     make
 
-## Run instructions
+### Run instructions
     ./cpp=cross-platform-skeleton
 
 
+## G++
+
+### compile
+
+```
+mkdir build && cd build
+g++ --std=c++2a -Wall -o ./app.exe -I../headers ../src/cpp_cross_platform_skeleton.cpp
+```
+
+### Run
+
+./app.exe
